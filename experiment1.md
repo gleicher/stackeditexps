@@ -7,6 +7,7 @@ Version 2 - I am editing within the github editor... and committing
 
 Version 3ba - GITHUB same time as stackedit. Github commit first.I am editing within stackedit.
 
+Version 4 - Added in stackedit
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0MzM2MDM4MV19
@@ -15,5 +16,5 @@ eyJoaXN0b3J5IjpbLTE0MzM2MDM4MV19
 eyJoaXN0b3J5IjpbLTEyNjMzOTA0ODJdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDE3ODgxXX0=
+eyJoaXN0b3J5IjpbMTM3MDIyNTQ4MV19
 -->
